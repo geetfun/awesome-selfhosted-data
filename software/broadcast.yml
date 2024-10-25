@@ -1,0 +1,12 @@
+name: Broadcast
+website_url: https://sendbroadcast.net
+description: Self-hosted email marketing, automation, and transactional email application for use with Amazon SES, Postmark, Mailgun, and other SMTP servers.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Ubuntu
+  - Docker
+  - Ruby on Rails
+tags:
+  - Communication - Email - Marketing
+source_code_url: https://sendbroadcast.net
